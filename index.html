@@ -1,11 +1,135 @@
-<body style="overflow:hidden;">
-<iframe src="https://9fdec01d-f72e-4ab0-b80a-e0d72f50bd3f-00-11kzjv104d8k6.worf.replit.dev/" style="
-    left: 0px;
-    top: 0px;
-    z-index: 999999;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    background-color: #222;
-    border: 0px;
-"></iframe></body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reports</title>
+    <style>
+        a {
+          color: red;
+        }
+        a:visited {
+          color: green;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #222;
+        }
+        .report {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+        .report h2 {
+            margin: 0 0 10px;
+        }
+        .report p {
+            margin: 5px 0;
+        }
+        .report-tags {
+            background-color: #333;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .report-user {
+            color: #007BFF;
+        }
+        .tags {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Reports</h1>
+    <div id="report-container"></div>
+    <div class="tags">
+        <h2>Total Reports: <span id="total-reports">0</span></h2>
+        <h3>Sorted Tags:</h3>
+        <ul id="sorted-tags"></ul>
+    </div>
+
+    <script>
+        // Load the reports data from the JSON file
+        async function loadReports() {
+            const response = await fetch('report_data.json');
+            const reports = await response.json();
+
+            if (reports) {
+                processReports(reports);
+            } else {
+                document.getElementById('report-container').innerHTML = '<p>No reports available.</p>';
+            }
+        }
+
+        function escapeHTML(str) {
+            // This function escapes HTML special characters
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        function humanizeTime(time) {
+            const now = new Date();
+            const date = new Date(time * 1000);
+            const diff = Math.abs(now - date) / 1000;
+
+            if (diff < 60) return `${Math.floor(diff)} seconds ago`;
+            if (diff < 3600) return `${Math.floor(diff / 60)} minutes ago`;
+            if (diff < 86400) return `${Math.floor(diff / 3600)} hours ago`;
+            return `${Math.floor(diff / 86400)} days ago`;
+        }
+
+        function processReports(reports) {
+            let totalReports = 0;
+            let tagCounts = {};
+
+            const reportContainer = document.getElementById('report-container');
+            reportContainer.innerHTML = '';
+
+            Object.keys(reports).forEach(reportUrl => {
+                const report = reports[reportUrl];
+                const reportTags = report.report_tags || {};
+                const reason = report['reason(s)'] ? report['reason(s)'][0] : 'No reason provided';
+                const latestReport = humanizeTime(report.latest_report);
+                const earliestReport = humanizeTime(report.earliest_report);
+
+                // Update tag counts
+                Object.keys(reportTags).forEach(tag => {
+                    tagCounts[tag] = (tagCounts[tag] || 0) + reportTags[tag];
+                });
+
+                // Generate report HTML safely using escaped content
+                const reportElement = document.createElement('div');
+                reportElement.classList.add('report');
+                reportElement.innerHTML = `
+                    <h2>Report URL: <a href="${escapeHTML(reportUrl)}" target="_blank">${escapeHTML(reportUrl)}</a></h2>
+                    <p><strong>Reported by:</strong> <a href="#" class="report-user">${escapeHTML(report.report_user || 'Unknown')}</a></p>
+                    <p><strong>Tags:</strong> <span class="report-tags">${escapeHTML(JSON.stringify(reportTags))}</span></p>
+                    <p><strong>Reason:</strong> ${escapeHTML(reason)}</p>
+                    <p><strong>Latest Report:</strong> ${escapeHTML(latestReport)}</p>
+                    <p><strong>Earliest Report:</strong> ${escapeHTML(earliestReport)}</p>
+                `;
+                reportContainer.appendChild(reportElement);
+            });
+
+            // Display total reports
+            totalReports = Object.values(tagCounts).reduce((sum, count) => sum + count, 0);
+            document.getElementById('total-reports').innerText = totalReports;
+
+            // Display sorted tags
+            const sortedTagsList = document.getElementById('sorted-tags');
+            sortedTagsList.innerHTML = '';
+            const sortedTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
+            sortedTags.forEach(([tag, count]) => {
+                const li = document.createElement('li');
+                li.textContent = `${tag}: ${count}`;
+                sortedTagsList.appendChild(li);
+            });
+        }
+
+        // Load reports data on page load
+        window.onload = loadReports;
+    </script>
+</body>
+</html>
