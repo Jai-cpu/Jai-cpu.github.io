@@ -50,9 +50,8 @@
     </div>
 
     <script>
-        // Load the reports data from the JSON file
         async function loadReports() {
-            const response = await fetch('https://jai-cpu.github.io/report_data.json');
+            const response = await fetch('report_data.json');
             const reports = await response.json();
 
             if (reports) {
@@ -63,7 +62,6 @@
         }
 
         function escapeHTML(str) {
-            // This function escapes HTML special characters
             const div = document.createElement('div');
             div.textContent = str;
             return div.innerHTML;
@@ -87,37 +85,49 @@
             const reportContainer = document.getElementById('report-container');
             reportContainer.innerHTML = '';
 
-            Object.keys(reports).forEach(reportUrl => {
+            const processedReports = Object.keys(reports).map(reportUrl => {
                 const report = reports[reportUrl];
                 const reportTags = report.report_tags || {};
                 const reason = report['reason(s)'] ? report['reason(s)'][0] : 'No reason provided';
                 const latestReport = humanizeTime(report.latest_report);
                 const earliestReport = humanizeTime(report.earliest_report);
 
-                // Update tag counts
+                const totalTagsCount = Object.values(reportTags).reduce((sum, count) => sum + count, 0);
+
                 Object.keys(reportTags).forEach(tag => {
                     tagCounts[tag] = (tagCounts[tag] || 0) + reportTags[tag];
                 });
 
-                // Generate report HTML safely using escaped content
+                return {
+                    url: reportUrl,
+                    report_user: report.report_user || 'Unknown',
+                    report_tags: reportTags,
+                    reason: reason,
+                    latest_report: latestReport,
+                    earliest_report: earliestReport,
+                    total_tags_count: totalTagsCount,
+                };
+            });
+
+            processedReports.sort((a, b) => b.total_tags_count - a.total_tags_count);
+
+            processedReports.forEach(report => {
                 const reportElement = document.createElement('div');
                 reportElement.classList.add('report');
                 reportElement.innerHTML = `
-                    <h2>Report URL: <a href="${escapeHTML(reportUrl)}" target="_blank">${escapeHTML(reportUrl)}</a></h2>
-                    <p><strong>Reported by:</strong> <a href="#" class="report-user">${escapeHTML(report.report_user || 'Unknown')}</a></p>
-                    <p><strong>Tags:</strong> <span class="report-tags">${escapeHTML(JSON.stringify(reportTags))}</span></p>
-                    <p><strong>Reason:</strong> ${escapeHTML(reason)}</p>
-                    <p><strong>Latest Report:</strong> ${escapeHTML(latestReport)}</p>
-                    <p><strong>Earliest Report:</strong> ${escapeHTML(earliestReport)}</p>
+                    <h2>Report URL: <a href="${escapeHTML(report.url)}" target="_blank">${escapeHTML(report.url)}</a></h2>
+                    <p><strong>Reported by:</strong> <a href="#" class="report-user">${escapeHTML(report.report_user)}</a></p>
+                    <p><strong>Tags:</strong> <span class="report-tags">${escapeHTML(JSON.stringify(report.report_tags))}</span></p>
+                    <p><strong>Reason:</strong> ${escapeHTML(report.reason)}</p>
+                    <p><strong>Latest Report:</strong> ${escapeHTML(report.latest_report)}</p>
+                    <p><strong>Earliest Report:</strong> ${escapeHTML(report.earliest_report)}</p>
                 `;
                 reportContainer.appendChild(reportElement);
             });
 
-            // Display total reports
             totalReports = Object.values(tagCounts).reduce((sum, count) => sum + count, 0);
             document.getElementById('total-reports').innerText = totalReports;
 
-            // Display sorted tags
             const sortedTagsList = document.getElementById('sorted-tags');
             sortedTagsList.innerHTML = '';
             const sortedTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
@@ -128,7 +138,6 @@
             });
         }
 
-        // Load reports data on page load
         window.onload = loadReports;
     </script>
 </body>
