@@ -56,8 +56,8 @@
     },
     "https://janitorai.com/characters/f5656491-13aa-4e2b-af24-0fc9d3d60e6c": {
         "report_tags": {
-            "spam": 17,
-            "illegal": 3,
+            "spam": 19,
+            "illegal": 5,
             "other": 3
         },
         "report_user": "https://janitorai.com/profiles/null",
@@ -65,7 +65,7 @@
             "",
             "A whole made bot just to bully people"
         ],
-        "latest_report": 1729219886,
+        "latest_report": 1729306709,
         "earliest_report": 1729158456
     },
     "https://janitorai.com/characters/8f8e1693-3035-41fb-bdee-623d0317d380": {
@@ -367,13 +367,15 @@
     },
     "https://janitorai.com/characters/bd68e23c-cf5d-4d7f-b6f0-f3f96687240f": {
         "report_tags": {
+            "spam": 1,
+            "other": 1,
             "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             ""
         ],
-        "latest_report": 1729192089,
+        "latest_report": 1729304165,
         "earliest_report": 1729184581
     },
     "https://janitorai.com/characters/a6a44513-66ad-4b96-9f48-83adbc38589f": {
@@ -478,13 +480,15 @@
     },
     "https://janitorai.com/characters/3bfd3f2b-dcd8-40f5-a0f7-4251d5259944": {
         "report_tags": {
+            "other": 1,
             "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "The character is a minor"
+            "The character is a minor",
+            "Character is underage & limitless"
         ],
-        "latest_report": 1729203649,
+        "latest_report": 1729266350,
         "earliest_report": 1729203649
     },
     "https://janitorai.com/characters/dfaaaf6d-a0c2-47f2-bcf3-e66ba4a7e44e": {
@@ -500,7 +504,7 @@
     },
     "https://janitorai.com/characters/b8080f44-06c0-4374-81d0-233b81040731": {
         "report_tags": {
-            "illegal": 7
+            "illegal": 5
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -533,13 +537,15 @@
     },
     "https://janitorai.com/characters/c4276618-d71f-4e62-9672-7f85b42a7bbc": {
         "report_tags": {
+            "other": 1,
             "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            ""
+            "",
+            "Literally a kid \u00f0\u009f\u0092\u0080"
         ],
-        "latest_report": 1729172940,
+        "latest_report": 1729280068,
         "earliest_report": 1729172940
     },
     "https://janitorai.com/characters/8aa0154c-46d6-405f-8c7b-1c148715529f": {
@@ -635,8 +641,7 @@
     },
     "https://janitorai.com/characters/0c4da962-b1fb-4c1c-ba6d-939e7379c92d": {
         "report_tags": {
-            "illegal": 1,
-            "spam": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -670,7 +675,7 @@
     },
     "https://janitorai.com/characters/4193fafb-edf7-4e2f-b472-d337edc4f28e": {
         "report_tags": {
-            "illegal": 4
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -747,7 +752,7 @@
     },
     "https://janitorai.com/characters/176faf01-682c-4c84-b292-59c4d1217938": {
         "report_tags": {
-            "illegal": 2
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -948,13 +953,13 @@
     },
     "https://janitorai.com/characters/50b33478-3526-46d5-8662-fc5ce76e9b61": {
         "report_tags": {
-            "illegal": 1
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             ""
         ],
-        "latest_report": 1729173121,
+        "latest_report": 1729299202,
         "earliest_report": 1729173121
     },
     "https://janitorai.com/characters/723ab8d1-92cc-4e8b-8536-8ad845bb979c": {
@@ -1047,8 +1052,7 @@
     },
     "https://janitorai.com/characters/24abeeaa-ab88-4882-96e4-706daafd091c": {
         "report_tags": {
-            "other": 1,
-            "illegal": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -1291,8 +1295,7 @@
     },
     "https://janitorai.com/characters/84e1cfee-bc3d-4c94-a67b-6ef141f0015f": {
         "report_tags": {
-            "illegal": 1,
-            "other": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -1347,8 +1350,7 @@
     },
     "https://janitorai.com/characters/ee4ae10c-5d6d-4c79-84a9-ba01764951db": {
         "report_tags": {
-            "other": 1,
-            "illegal": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -1426,7 +1428,7 @@
     },
     "https://janitorai.com/characters/b36ff87f-027a-48fb-9c22-2f8f4a0f54a9": {
         "report_tags": {
-            "illegal": 2
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -1760,7 +1762,7 @@
     },
     "https://janitorai.com/characters/4d6bd8e2-2c83-43bb-8df4-5017d85a573b": {
         "report_tags": {
-            "illegal": 3
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -1892,8 +1894,7 @@
     },
     "https://janitorai.com/characters/c1141586-0b3b-4995-b332-2d1faeaa6c82": {
         "report_tags": {
-            "wrong_tag": 4,
-            "illegal": 1
+            "wrong_tag": 3
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -1926,7 +1927,7 @@
     },
     "https://janitorai.com/characters/a2c66869-a9c4-429d-986a-c9ece456d2e0": {
         "report_tags": {
-            "illegal": 3
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -2025,14 +2026,14 @@
     },
     "https://janitorai.com/characters/63a75500-7324-4410-9466-480d20423a29": {
         "report_tags": {
-            "illegal": 1,
-            "other": 1
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "It has user to be 10 years old. And it's limitless, I know that you cannot post underaged people here, no matter what, so do something as fast as you can about this."
+            "It has user to be 10 years old. And it's limitless, I know that you cannot post underaged people here, no matter what, so do something as fast as you can about this.",
+            "10 year old user?"
         ],
-        "latest_report": 1729156048,
+        "latest_report": 1729295954,
         "earliest_report": 1729081736
     },
     "https://janitorai.com/characters/bdbbe56b-7235-499f-baf1-2d29cba7e3d1": {
@@ -2126,13 +2127,13 @@
     },
     "https://janitorai.com/characters/7fcd5ff6-ee57-4d27-9011-bac71d9f1010": {
         "report_tags": {
-            "illegal": 1
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             ""
         ],
-        "latest_report": 1729190941,
+        "latest_report": 1729258310,
         "earliest_report": 1729190941
     },
     "https://janitorai.com/characters/e792edb4-fd1f-4cd6-b007-5cda9900fbcf": {
@@ -2313,15 +2314,15 @@
     },
     "https://janitorai.com/characters/0f708232-f79e-4e65-99ea-ef0fd802e473": {
         "report_tags": {
-            "other": 9,
-            "illegal": 42,
-            "stolen": 1
+            "other": 5,
+            "illegal": 20
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "umm are bots of literal school shooters allowed on here"
+            "umm are bots of literal school shooters allowed on here",
+            "They made bots of the columbine school shooters, this is fucking disgusting"
         ],
-        "latest_report": 1729166711,
+        "latest_report": 1729303237,
         "earliest_report": 1729082439
     },
     "https://janitorai.com/characters/b7110548-c6f4-427f-8209-3e65481d4983": {
@@ -2480,15 +2481,16 @@
     },
     "https://janitorai.com/characters/88ca73cd-6e2b-407b-8003-bf6cb97a6644": {
         "report_tags": {
-            "other": 1,
-            "illegal": 3
+            "illegal": 4,
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             "It has incest",
-            "Character isn't labeled as a step-sibling. So it seems like brother-sister incest."
+            "Character isn't labeled as a step-sibling. So it seems like brother-sister incest.",
+            "Contains incest"
         ],
-        "latest_report": 1729220350,
+        "latest_report": 1729274915,
         "earliest_report": 1729160245
     },
     "https://janitorai.com/characters/e00d0a8d-bf64-4867-90db-8790025e4d53": {
@@ -2614,7 +2616,7 @@
     },
     "https://janitorai.com/characters/509c71ab-7f7b-476c-94e4-802451afc267": {
         "report_tags": {
-            "illegal": 4
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -2647,7 +2649,7 @@
     },
     "https://janitorai.com/characters/0c3a569b-4d5a-4e35-942a-ac146dcc68a8": {
         "report_tags": {
-            "other": 2
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -2724,13 +2726,14 @@
     },
     "https://janitorai.com/characters/0966276d-6505-45e2-a278-f46061d735c0": {
         "report_tags": {
-            "illegal": 1
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            ""
+            "",
+            "He was literally proven as an entire ass abuser and there's a difference between fictional consensual kink scenes and bots and actual real life abusers who have actual real life victims that suffer when people like sexualise and hype up their abuser."
         ],
-        "latest_report": 1729133632,
+        "latest_report": 1729277731,
         "earliest_report": 1729133632
     },
     "https://janitorai.com/characters/fd63f6b4-628b-44cc-82e4-a59c03cb89e7": {
@@ -2823,8 +2826,7 @@
     },
     "https://janitorai.com/characters/fa65b70f-1f03-4739-ad49-9b3ad576e10d": {
         "report_tags": {
-            "other": 2,
-            "illegal": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -2935,8 +2937,7 @@
     },
     "https://janitorai.com/characters/138f8d87-564d-4d45-8f3d-6ac85f237608": {
         "report_tags": {
-            "other": 1,
-            "illegal": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -3002,8 +3003,7 @@
     },
     "https://janitorai.com/characters/6a4124ab-0e1b-48b4-8d87-86dd8cd12f31": {
         "report_tags": {
-            "other": 1,
-            "illegal": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -3113,25 +3113,28 @@
     },
     "https://janitorai.com/characters/ecdf6fb2-df83-4162-9a55-151da20a45a3": {
         "report_tags": {
-            "illegal": 8,
-            "other": 3
+            "other": 2,
+            "illegal": 3
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "It's a school shooter"
+            "It's a school shooter",
+            "This is one of the columbine school shooters"
         ],
-        "latest_report": 1729148947,
+        "latest_report": 1729303271,
         "earliest_report": 1729086176
     },
     "https://janitorai.com/characters/a96fe41d-6e35-4ac6-bcb3-2c65f75b3f5f": {
         "report_tags": {
+            "illegal": 3,
             "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "TOS"
+            "TOS",
+            ""
         ],
-        "latest_report": 1729181923,
+        "latest_report": 1729260664,
         "earliest_report": 1729181923
     },
     "https://janitorai.com/characters/2639d4a9-d69f-4368-86d2-2dd55c808a34": {
@@ -3191,13 +3194,14 @@
     },
     "https://janitorai.com/characters/a8276e6a-d4bc-4d7d-b897-f90215711648": {
         "report_tags": {
-            "other": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "the bot itself is not an issue but did they have to use a picture of an actual corpse for the thumbnail?!"
+            "the bot itself is not an issue but did they have to use a picture of an actual corpse for the thumbnail?!",
+            "literally a picture of a dead body that is from a cartel murder"
         ],
-        "latest_report": 1729116084,
+        "latest_report": 1729301828,
         "earliest_report": 1729116084
     },
     "https://janitorai.com/characters/790c92af-bd86-4f5a-a1c7-c2e7eda285ea": {
@@ -3413,13 +3417,15 @@
     },
     "https://janitorai.com/characters/f97fd5c5-7cc4-4eb6-ac87-f50d524a5b43": {
         "report_tags": {
+            "illegal": 1,
             "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Adam Lanza murdered 26 people at Sandy Hook elementary a few weeks before christmas. He is a mass murderer."
+            "Adam Lanza murdered 26 people at Sandy Hook elementary a few weeks before christmas. He is a mass murderer.",
+            "A bot based on a real life person who murdered children"
         ],
-        "latest_report": 1729143602,
+        "latest_report": 1729304705,
         "earliest_report": 1729051741
     },
     "https://janitorai.com/characters/de160657-bc32-44a9-93e0-600e5423043b": {
@@ -3435,15 +3441,14 @@
     },
     "https://janitorai.com/characters/bdc100ae-47fe-433e-9f43-4bfce4dbadb4": {
         "report_tags": {
-            "illegal": 2,
-            "other": 1,
-            "wrong_tag": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            ""
+            "",
+            "Depicts a child"
         ],
-        "latest_report": 1729122855,
+        "latest_report": 1729302761,
         "earliest_report": 1729041127
     },
     "https://janitorai.com/characters/9b500a00-4c8e-4818-933a-60f25e046c49": {
@@ -3679,13 +3684,13 @@
     },
     "https://janitorai.com/characters/b4d8ab41-a357-43d4-b7d0-f2bea9d9f752": {
         "report_tags": {
-            "illegal": 1
+            "illegal": 3
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             ""
         ],
-        "latest_report": 1729099351,
+        "latest_report": 1729290229,
         "earliest_report": 1729099351
     },
     "https://janitorai.com/characters/2f92b990-e05f-4ad1-b7f7-042568fb457d": {
@@ -3767,7 +3772,7 @@
     },
     "https://janitorai.com/characters/6f05be87-a3b1-4d74-b836-cff7311cee14": {
         "report_tags": {
-            "illegal": 4
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -3989,8 +3994,7 @@
     },
     "https://janitorai.com/characters/9bb83029-1157-4451-b4e6-5d33271d45c3": {
         "report_tags": {
-            "illegal": 6,
-            "other": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -4018,7 +4022,7 @@
         "reason(s)": [
             ""
         ],
-        "latest_report": 1729098284,
+        "latest_report": 1729269908,
         "earliest_report": 1729098284
     },
     "https://janitorai.com/characters/0988a283-657d-4794-98f1-0f9363a18c4d": {
@@ -4454,7 +4458,7 @@
     },
     "https://janitorai.com/characters/33c81e8e-9fbc-48a9-907f-e98aad7d3b0a": {
         "report_tags": {
-            "illegal": 2
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -4469,9 +4473,10 @@
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Reporting again because this person has been allowed to steal my bot for 24 hours.<br />https://janitorai.com/characters/805fc28f-1cc1-4c14-b27f-a872e6aabb00_character-rikka-cuteness-aggression-kitsune"
+            "Reporting again because this person has been allowed to steal my bot for 24 hours.<br />https://janitorai.com/characters/805fc28f-1cc1-4c14-b27f-a872e6aabb00_character-rikka-cuteness-aggression-kitsune",
+            "Reporting again because still no action has been taken regarding this bot that has been stolen from me."
         ],
-        "latest_report": 1729101327,
+        "latest_report": 1729248618,
         "earliest_report": 1729101327
     },
     "https://janitorai.com/characters/f534a2b8-8214-4303-94a5-6bd2d6304a49": {
@@ -4741,8 +4746,7 @@
     },
     "https://janitorai.com/characters/05f964dd-5fa8-4b6d-b6cc-81f6fcfdbb86": {
         "report_tags": {
-            "illegal": 1,
-            "other": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -4765,8 +4769,7 @@
     },
     "https://janitorai.com/characters/6343d6e9-f077-4c76-9abe-8638cfb3fdea": {
         "report_tags": {
-            "illegal": 1,
-            "other": 1
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -4976,7 +4979,7 @@
     },
     "https://janitorai.com/characters/f984acc7-e438-43e1-a324-f156d4d8316b": {
         "report_tags": {
-            "other": 2
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -5099,7 +5102,7 @@
     },
     "https://janitorai.com/characters/30a322ce-e372-49bf-8133-8b60bdabb14a": {
         "report_tags": {
-            "illegal": 4
+            "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
@@ -5269,9 +5272,10 @@
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Monster kid from undertale, literally actual kid what more to say on this?"
+            "Monster kid from undertale, literally actual kid what more to say on this?",
+            ""
         ],
-        "latest_report": 1729074981,
+        "latest_report": 1729313659,
         "earliest_report": 1729037519
     },
     "https://janitorai.com/characters/4293e3c2-4fe8-480e-a5e2-88b4ae702eed": {
@@ -5464,13 +5468,14 @@
     },
     "https://janitorai.com/characters/e26953b7-41f8-4281-9266-c817626ba225": {
         "report_tags": {
-            "illegal": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "its sexually harassing me without consent"
+            "its sexually harassing me without consent",
+            "It won't load the page for me"
         ],
-        "latest_report": 1729045591,
+        "latest_report": 1729296943,
         "earliest_report": 1729045591
     },
     "https://janitorai.com/characters/e7f1fa08-74b3-4ebe-9c98-ad32f8e06e8c": {
@@ -5563,13 +5568,14 @@
     },
     "https://janitorai.com/characters/c3fd7738-3879-493c-8e8a-3cdcebd7f019": {
         "report_tags": {
-            "spam": 1
+            "other": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Owner crippled the bot"
+            "Owner crippled the bot",
+            "Bot creator \"deactivated\" it"
         ],
-        "latest_report": 1729044346,
+        "latest_report": 1729311212,
         "earliest_report": 1729044346
     },
     "https://janitorai.com/characters/aac053b8-ad66-4afb-8904-0752acb5ef16": {
@@ -5666,9 +5672,10 @@
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "This bot promote eating disorders"
+            "This bot promote eating disorders",
+            ""
         ],
-        "latest_report": 1729051145,
+        "latest_report": 1729278307,
         "earliest_report": 1729051145
     },
     "https://janitorai.com/characters/249c0116-0491-4dba-ae85-94298d6ee206": {
@@ -5750,14 +5757,15 @@
     },
     "https://janitorai.com/characters/5fe53d66-55dd-487a-b70a-c71f3ca47bf5": {
         "report_tags": {
-            "other": 1
+            "other": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             "",
-            "Minor Sexualizing"
+            "Minor Sexualizing",
+            "This is Elizabeth from fnaf a MINOR"
         ],
-        "latest_report": 1729209367,
+        "latest_report": 1729282640,
         "earliest_report": 1729044061
     },
     "https://janitorai.com/characters/0865efa5-9e99-4e49-944f-772eef040dba": {
@@ -6204,14 +6212,15 @@
     },
     "https://janitorai.com/characters/c9057877-5df7-4d4d-94d8-519d9ec763d9": {
         "report_tags": {
-            "other": 1,
+            "other": 2,
             "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Birthday(\"May 18, 2009\"),"
+            "Birthday(\"May 18, 2009\"),",
+            "She's only 15 based on birthdate listed."
         ],
-        "latest_report": 1729227104,
+        "latest_report": 1729275948,
         "earliest_report": 1729210794
     },
     "https://janitorai.com/characters/1a3cd6e8-8870-4fd9-b382-73c1059a8248": {
@@ -6260,14 +6269,15 @@
     },
     "https://janitorai.com/characters/ffe0dcd5-347e-4d8c-82df-a8eea855b958": {
         "report_tags": {
-            "illegal": 1,
-            "other": 1
+            "other": 2,
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            ""
+            "",
+            "The bot doesn't do it's intended purpose"
         ],
-        "latest_report": 1729227607,
+        "latest_report": 1729263722,
         "earliest_report": 1729223310
     },
     "https://janitorai.com/characters/61aa5977-3bac-4de5-9834-6a63451b5ddd": {
@@ -6811,13 +6821,14 @@
     },
     "https://janitorai.com/characters/acfd9921-5f8a-4e56-9b8b-c2a4a51ec63e": {
         "report_tags": {
-            "illegal": 2
+            "illegal": 8,
+            "spam": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
             ""
         ],
-        "latest_report": 1729233565,
+        "latest_report": 1729278727,
         "earliest_report": 1729206720
     },
     "https://janitorai.com/characters/417687a3-5e91-47d4-877f-05950ccd02a3": {
@@ -6866,14 +6877,15 @@
     },
     "https://janitorai.com/characters/cd26c6f4-9efb-4556-af37-5539e113cb7c": {
         "report_tags": {
-            "illegal": 1,
-            "other": 1
+            "illegal": 3,
+            "other": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Literal zoo activity bro please remove ts \u00f0\u009f\u0099\u008f \u00f0\u009f\u0098\u00ad"
+            "Literal zoo activity bro please remove ts \u00f0\u009f\u0099\u008f \u00f0\u009f\u0098\u00ad",
+            "Literally zoophilia.."
         ],
-        "latest_report": 1729223544,
+        "latest_report": 1729310696,
         "earliest_report": 1729213385
     },
     "https://janitorai.com/characters/30d9a89d-e0ee-4165-878d-69d3193e2067": {
@@ -7164,14 +7176,15 @@
     },
     "https://janitorai.com/characters/733b0a47-f7b8-445b-8713-29f43502217d": {
         "report_tags": {
-            "other": 1,
+            "other": 2,
             "wrong_tag": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Under age"
+            "Under age",
+            "BLUR THE IMAGE PLS I GOT FLASHED BRUV"
         ],
-        "latest_report": 1729223410,
+        "latest_report": 1729242925,
         "earliest_report": 1729209840
     },
     "https://janitorai.com/characters/1429bd0b-c81c-41af-87cf-197bb4855a26": {
@@ -7209,13 +7222,14 @@
     },
     "https://janitorai.com/characters/3b12919f-2fa2-404c-9eda-4b84af39e1e7": {
         "report_tags": {
-            "illegal": 1
+            "illegal": 2
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            "Presumably minors in school making bots of each other"
+            "Presumably minors in school making bots of each other",
+            ""
         ],
-        "latest_report": 1729217232,
+        "latest_report": 1729254540,
         "earliest_report": 1729217232
     },
     "https://janitorai.com/characters/73527521-6d71-4fd9-8b5b-9436c0b8de9c": {
@@ -7507,13 +7521,15 @@
     },
     "https://janitorai.com/characters/69413342-67b2-431f-b185-d4a709bb2db5": {
         "report_tags": {
+            "other": 1,
             "illegal": 1
         },
         "report_user": "https://janitorai.com/profiles/null",
         "reason(s)": [
-            ""
+            "",
+            "she's like 8"
         ],
-        "latest_report": 1729207532,
+        "latest_report": 1729277659,
         "earliest_report": 1729207532
     },
     "https://janitorai.com/characters/942a376f-f594-4d1c-9831-861c2e90d07a": {
@@ -7614,5 +7630,2424 @@
         ],
         "latest_report": 1729226773,
         "earliest_report": 1729226773
+    },
+    "https://janitorai.com/characters/ee86eed1-72a0-4569-b9a9-a46f6addbf1c": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Bot avatar is a real person"
+        ],
+        "latest_report": 1729315206,
+        "earliest_report": 1729315206
+    },
+    "https://janitorai.com/characters/bc75ecec-3492-4736-88a2-78aa030cff00": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729323143,
+        "earliest_report": 1729323143
+    },
+    "https://janitorai.com/characters/704cd054-eb52-4a9e-bdaf-7399a190ed6a": {
+        "report_tags": {
+            "illegal": 3
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316158,
+        "earliest_report": 1729316155
+    },
+    "https://janitorai.com/characters/5004e57b-2e46-426b-975f-d9cb3a146085": {
+        "report_tags": {
+            "illegal": 10
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729315961,
+        "earliest_report": 1729315947
+    },
+    "https://janitorai.com/characters/60b5a9ca-6f50-4221-8e4a-9dab64ac3f38": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Underaged Character"
+        ],
+        "latest_report": 1729321497,
+        "earliest_report": 1729321497
+    },
+    "https://janitorai.com/characters/717fef20-1b7d-4a4e-afdd-b634aa40070f": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316134,
+        "earliest_report": 1729303922
+    },
+    "https://janitorai.com/characters/235319ca-1783-41e3-8852-3fb5335f4e2b": {
+        "report_tags": {
+            "illegal": 3
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316108,
+        "earliest_report": 1729243163
+    },
+    "https://janitorai.com/characters/19f4dd30-445d-405b-8ea3-bf3a01c07601": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "I can't access the chat and the bot is not private, it's giving an error."
+        ],
+        "latest_report": 1729295208,
+        "earliest_report": 1729295208
+    },
+    "https://janitorai.com/characters/cc38768e-b92d-47b3-9eca-e49ab1054046": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Seems like it does not work! It keeps saying that the chat is private or deleted."
+        ],
+        "latest_report": 1729293853,
+        "earliest_report": 1729293853
+    },
+    "https://janitorai.com/characters/4af1d2e6-e861-4885-9db8-19c8845eca33": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this bot condones hate towards those of the jewish faith."
+        ],
+        "latest_report": 1729309335,
+        "earliest_report": 1729309335
+    },
+    "https://janitorai.com/characters/6e0d60ae-5bfd-40e7-9f3a-02b2ac75c23d": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729294334,
+        "earliest_report": 1729294334
+    },
+    "https://janitorai.com/characters/81098d60-834b-4fce-ae3b-35aad169f92e": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Not your personal blog"
+        ],
+        "latest_report": 1729295865,
+        "earliest_report": 1729295865
+    },
+    "https://janitorai.com/characters/164a3e99-80bf-48ac-b613-4673c68e4a7d": {
+        "report_tags": {
+            "illegal": 1,
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Incest"
+        ],
+        "latest_report": 1729293372,
+        "earliest_report": 1729293307
+    },
+    "https://janitorai.com/characters/8915b2af-b796-4448-ac6d-45100b119567": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Frisk is a minor, their character has never been depicted as an adult."
+        ],
+        "latest_report": 1729295784,
+        "earliest_report": 1729295784
+    },
+    "https://janitorai.com/characters/88d73ae9-cfcf-40ee-a30c-7f3226d567cd": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729306050,
+        "earliest_report": 1729306050
+    },
+    "https://janitorai.com/characters/ee7ee262-0b28-4a18-865a-e6243119e280": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "I think this bot is a pedo? the bot description says \"likes younger\" and the user in this bot seems to be a minor but it is unclear. Reporting just in case"
+        ],
+        "latest_report": 1729292623,
+        "earliest_report": 1729292623
+    },
+    "https://janitorai.com/characters/69268035-6a36-4bc9-a3cd-0287095262c5": {
+        "report_tags": {
+            "other": 3
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The people in the picture look far to young"
+        ],
+        "latest_report": 1729298944,
+        "earliest_report": 1729289534
+    },
+    "https://janitorai.com/characters/0d12d6f5-4eaf-4d2a-a781-39c226c647e4": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "O bot existe, mas ao entrar, recebo uma mensagem dizendo que n\u00c3\u00a3o existe"
+        ],
+        "latest_report": 1729295646,
+        "earliest_report": 1729295646
+    },
+    "https://janitorai.com/characters/85fe84c7-4805-41ca-ab0b-2c158b304998": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729323136,
+        "earliest_report": 1729323136
+    },
+    "https://janitorai.com/characters/eb35d645-7c5a-48ef-ae0c-393b3b55246a": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "no carga"
+        ],
+        "latest_report": 1729294383,
+        "earliest_report": 1729294383
+    },
+    "https://janitorai.com/characters/3241e926-b1ca-4dfb-a00f-a577c790cdf1": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this is a child"
+        ],
+        "latest_report": 1729274671,
+        "earliest_report": 1729274671
+    },
+    "https://janitorai.com/characters/94b985ff-231d-4c84-8764-8e17f9e2ccf5": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Character is a minor"
+        ],
+        "latest_report": 1729282462,
+        "earliest_report": 1729282462
+    },
+    "https://janitorai.com/characters/c81ba5e6-b2c7-4d3e-aa65-1a90697018bd": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "This is a  child"
+        ],
+        "latest_report": 1729281017,
+        "earliest_report": 1729281017
+    },
+    "https://janitorai.com/characters/606e7976-960c-4323-9989-21dd1e6073f8": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "looks like a child"
+        ],
+        "latest_report": 1729280405,
+        "earliest_report": 1729280405
+    },
+    "https://janitorai.com/characters/3efbf319-5eb3-44d3-ae3e-8c1f5899f482": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729293935,
+        "earliest_report": 1729293935
+    },
+    "https://janitorai.com/characters/61eb6a29-1028-4068-be51-288af2610064": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729270076,
+        "earliest_report": 1729270076
+    },
+    "https://janitorai.com/characters/e92179ae-caa1-452e-8ff7-75ee66e5cead": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729270336,
+        "earliest_report": 1729270336
+    },
+    "https://janitorai.com/characters/34658d8c-146d-4bf1-921c-32167f811546": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Bot can't be opened"
+        ],
+        "latest_report": 1729294515,
+        "earliest_report": 1729294515
+    },
+    "https://janitorai.com/characters/329d3991-1692-400e-8233-d5f49e8da397": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The character is 12 years old"
+        ],
+        "latest_report": 1729282631,
+        "earliest_report": 1729282631
+    },
+    "https://janitorai.com/characters/323f1f0a-f923-4f83-a393-43b380e6b6c0": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729262002,
+        "earliest_report": 1729262002
+    },
+    "https://janitorai.com/characters/f41bb188-cb4c-4273-9cb6-1e142e9376c4": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316527,
+        "earliest_report": 1729316527
+    },
+    "https://janitorai.com/characters/56e2e221-a563-47c2-95e5-f75c43bf1786": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The image depicts a child-like girl"
+        ],
+        "latest_report": 1729261512,
+        "earliest_report": 1729261512
+    },
+    "https://janitorai.com/characters/0bece75b-951c-4b31-8233-c6bc2d00ffbb": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729268723,
+        "earliest_report": 1729268723
+    },
+    "https://janitorai.com/characters/b18de6b5-8749-4f26-b046-7ae1a53ecc78": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729240211,
+        "earliest_report": 1729240211
+    },
+    "https://janitorai.com/characters/83921a11-bc4f-4696-8b50-272cea1b8b1a": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Child bot"
+        ],
+        "latest_report": 1729260643,
+        "earliest_report": 1729260643
+    },
+    "https://janitorai.com/characters/84ebe4f9-af41-4487-bd11-3037042fe501": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "minor-looking image"
+        ],
+        "latest_report": 1729260630,
+        "earliest_report": 1729260630
+    },
+    "https://janitorai.com/characters/4f2def3e-8808-459f-b7b9-d9fca13fcd09": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729317994,
+        "earliest_report": 1729317994
+    },
+    "https://janitorai.com/characters/78b95fb2-7371-4c67-bbe8-95934faf7e9f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729323110,
+        "earliest_report": 1729323110
+    },
+    "https://janitorai.com/characters/1b163e4e-680d-4e83-94be-3e4072875f07": {
+        "report_tags": {
+            "illegal": 7,
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729274097,
+        "earliest_report": 1729274078
+    },
+    "https://janitorai.com/characters/5828eb66-c417-4a11-a904-0c3cfececd62": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "\"Anypov\" when the opening message is obviously fempov"
+        ],
+        "latest_report": 1729305699,
+        "earliest_report": 1729305699
+    },
+    "https://janitorai.com/characters/386033b3-3c55-4c3f-a205-5d3088b24e08": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "rape is extremely inappropriate to make a smut bot about."
+        ],
+        "latest_report": 1729308909,
+        "earliest_report": 1729308909
+    },
+    "https://janitorai.com/characters/73c0aced-4009-4667-92e3-78d501336f44": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "https://janitorai.com/profiles/cfdef4fd-eccd-48a3-97b8-e50cec2718c0_profile-of-spikeezz<br /><br />It's a duplicate of mine, I would like it privated if unable to have it deleted."
+        ],
+        "latest_report": 1729322142,
+        "earliest_report": 1729322142
+    },
+    "https://janitorai.com/characters/d1a19929-e64b-4b36-a5ca-3976dce9c4ce": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "There is no chat here. The person just posted some pictures and forgot to add...everything."
+        ],
+        "latest_report": 1729295166,
+        "earliest_report": 1729295166
+    },
+    "https://janitorai.com/characters/b348d449-b08e-4778-a842-1d78d3ba3b3c": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729295045,
+        "earliest_report": 1729295045
+    },
+    "https://janitorai.com/characters/cea06db3-6c0a-45a8-b5a1-938eaec12cfb": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Real Person"
+        ],
+        "latest_report": 1729294531,
+        "earliest_report": 1729294531
+    },
+    "https://janitorai.com/characters/88534814-73ba-4ace-b9b0-973b300f73f1": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The bot has been removed or is not working."
+        ],
+        "latest_report": 1729294595,
+        "earliest_report": 1729294595
+    },
+    "https://janitorai.com/characters/eba3e8f6-1d76-4aae-aa84-d5172201b92f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Just the photo alone is enough for it to be considered rule breaking"
+        ],
+        "latest_report": 1729315792,
+        "earliest_report": 1729315792
+    },
+    "https://janitorai.com/characters/f8153d39-836e-4409-8b2d-a1a993c6d087": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "ban evasion"
+        ],
+        "latest_report": 1729291562,
+        "earliest_report": 1729291562
+    },
+    "https://janitorai.com/characters/072ff18f-6ac9-4c69-88a3-eca4e4c4d42d": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729260504,
+        "earliest_report": 1729260504
+    },
+    "https://janitorai.com/characters/d44290ad-8464-4ca4-b9c5-0f00e2bd11ba": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729308134,
+        "earliest_report": 1729308134
+    },
+    "https://janitorai.com/characters/f54e9dca-3a2d-4da9-a15a-accd45be68f5": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729270741,
+        "earliest_report": 1729270741
+    },
+    "https://janitorai.com/characters/d314ced4-2746-404d-846e-7fb4d2ebb665": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729305597,
+        "earliest_report": 1729305597
+    },
+    "https://janitorai.com/characters/53438f6c-892d-4593-a392-bdc462590dac": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "the message is literally incest and pedophilia"
+        ],
+        "latest_report": 1729321520,
+        "earliest_report": 1729321520
+    },
+    "https://janitorai.com/characters/e22567ff-0bfc-45ad-b031-f5e3f8a19a66": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729311676,
+        "earliest_report": 1729311676
+    },
+    "https://janitorai.com/characters/596367dd-7246-49db-aba4-688ca48133e0": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729323162,
+        "earliest_report": 1729252333
+    },
+    "https://janitorai.com/characters/b040ddc0-8785-48eb-95e6-5e32e7b58d36": {
+        "report_tags": {
+            "illegal": 2,
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729319509,
+        "earliest_report": 1729313993
+    },
+    "https://janitorai.com/characters/68486230-9aac-4c43-a3bf-566fa4c04c95": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this looks like a young child"
+        ],
+        "latest_report": 1729274763,
+        "earliest_report": 1729274763
+    },
+    "https://janitorai.com/characters/214e152d-6c6d-4acc-a576-7b4eb125e2c3": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this is a child"
+        ],
+        "latest_report": 1729274737,
+        "earliest_report": 1729274737
+    },
+    "https://janitorai.com/characters/42bfcb82-2c77-49c0-b484-d69387426b7e": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The creator of this bot states that they themselves are a minor in their bio."
+        ],
+        "latest_report": 1729320899,
+        "earliest_report": 1729320899
+    },
+    "https://janitorai.com/characters/6a0453e9-9f30-4224-8780-6f55c0ad31cf": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Bot is not loading"
+        ],
+        "latest_report": 1729293145,
+        "earliest_report": 1729293145
+    },
+    "https://janitorai.com/characters/6ef6ab6e-6f45-44e2-8bb7-ebf707e408d8": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this is a c.ai bot that has been stolen"
+        ],
+        "latest_report": 1729310229,
+        "earliest_report": 1729310229
+    },
+    "https://janitorai.com/characters/d377115e-7535-4d3d-8671-0371550045da": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "canon art of minor character"
+        ],
+        "latest_report": 1729281038,
+        "earliest_report": 1729281038
+    },
+    "https://janitorai.com/characters/e392cdfe-de94-4ead-856d-4a04396aa98e": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729318331,
+        "earliest_report": 1729318331
+    },
+    "https://janitorai.com/characters/f54b960e-8005-4953-843b-5454da495362": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "incest"
+        ],
+        "latest_report": 1729281968,
+        "earliest_report": 1729281968
+    },
+    "https://janitorai.com/characters/4f4703ac-8279-4473-86ce-0f0619e4db51": {
+        "report_tags": {
+            "illegal": 14
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316267,
+        "earliest_report": 1729289477
+    },
+    "https://janitorai.com/characters/a2eb1a37-9f03-40da-bd53-9895bc9d696b": {
+        "report_tags": {
+            "illegal": 7
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729308849,
+        "earliest_report": 1729303146
+    },
+    "https://janitorai.com/characters/fba29bec-2fb7-4ee3-8362-bd173276bd18": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Character is underage and it's limitless"
+        ],
+        "latest_report": 1729315016,
+        "earliest_report": 1729315016
+    },
+    "https://janitorai.com/characters/eca627ea-227b-4baf-974e-97d425366f57": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Rape is crazy also involves taking inappropriate pics of minors"
+        ],
+        "latest_report": 1729303201,
+        "earliest_report": 1729303201
+    },
+    "https://janitorai.com/characters/87f14ba4-876a-4609-836d-13aa35dc795d": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Character is underaged and depicted in a sexually explicit way"
+        ],
+        "latest_report": 1729319381,
+        "earliest_report": 1729319381
+    },
+    "https://janitorai.com/characters/371450e0-09f7-4993-97cd-3607c6aed947": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729303902,
+        "earliest_report": 1729303902
+    },
+    "https://janitorai.com/characters/bec2d63b-e20d-4b4d-ad27-3a49aafb3d9d": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729305006,
+        "earliest_report": 1729305006
+    },
+    "https://janitorai.com/characters/c1192bfe-c85d-48e2-8733-8a0235353a5a": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729314686,
+        "earliest_report": 1729314686
+    },
+    "https://janitorai.com/characters/8b44710d-2d54-4243-aa9b-adebf5884fc0": {
+        "report_tags": {
+            "illegal": 3
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729270399,
+        "earliest_report": 1729270393
+    },
+    "https://janitorai.com/characters/052bae59-e3d1-405f-ad43-1455fc868c00": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316861,
+        "earliest_report": 1729316861
+    },
+    "https://janitorai.com/characters/9314e46e-ce4d-498d-9c34-3162fb12a3cb": {
+        "report_tags": {
+            "stolen": 1,
+            "other": 1,
+            "spam": 1,
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729296765,
+        "earliest_report": 1729284293
+    },
+    "https://janitorai.com/characters/6419a20c-6223-4768-ac3d-e215c89ea3a5": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729323126,
+        "earliest_report": 1729323126
+    },
+    "https://janitorai.com/characters/fb8d8d63-9c82-4707-ac5f-486d622c5296": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729296947,
+        "earliest_report": 1729296947
+    },
+    "https://janitorai.com/characters/aa9452b4-7c9e-4019-87ac-5d46592fc102": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Kink shaming"
+        ],
+        "latest_report": 1729322084,
+        "earliest_report": 1729322084
+    },
+    "https://janitorai.com/characters/dde0dc4c-51b4-4c17-96bc-9c04e37e4e1e": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "I cant chat, saying there's an error or the bot is private or deleted when its not"
+        ],
+        "latest_report": 1729296934,
+        "earliest_report": 1729296934
+    },
+    "https://janitorai.com/characters/cec6c1f1-f18d-447d-8947-2f5c980b8baa": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729295415,
+        "earliest_report": 1729295415
+    },
+    "https://janitorai.com/characters/0a1443cc-8bbe-4212-bf44-cea16c647e44": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729311659,
+        "earliest_report": 1729311659
+    },
+    "https://janitorai.com/characters/fd092eb3-3f8c-4e68-8b23-ca7475280bdc": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729263002,
+        "earliest_report": 1729263002
+    },
+    "https://janitorai.com/characters/aeb7ad9a-c42d-4969-ac03-7c3bf99d3c5e": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729288398,
+        "earliest_report": 1729288398
+    },
+    "https://janitorai.com/characters/33054692-a1a1-4afc-8952-dc9bec5ae5bc": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729249045,
+        "earliest_report": 1729249045
+    },
+    "https://janitorai.com/characters/052244a1-f3f8-4997-8695-c29ac328eed9": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Incest."
+        ],
+        "latest_report": 1729314766,
+        "earliest_report": 1729314766
+    },
+    "https://janitorai.com/characters/654f6c4e-25a3-4a42-a7a0-597c1df46c37": {
+        "report_tags": {
+            "other": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "I can't start a chat with this bot, I can't write a comment under this bot, I can't do anything."
+        ],
+        "latest_report": 1729284958,
+        "earliest_report": 1729271615
+    },
+    "https://janitorai.com/characters/f849e497-0fbe-4a2e-8a71-d9ddccbb95e4": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729262196,
+        "earliest_report": 1729262196
+    },
+    "https://janitorai.com/characters/a034717b-27a6-445a-9bdb-c0be1e1fb28b": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "It's originally @toraval 's bot, not this guys. It's copied."
+        ],
+        "latest_report": 1729319656,
+        "earliest_report": 1729319656
+    },
+    "https://janitorai.com/characters/89c9b578-022e-4fe7-9bf0-56570bbff058": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "he's an underage ghost"
+        ],
+        "latest_report": 1729278541,
+        "earliest_report": 1729278541
+    },
+    "https://janitorai.com/characters/242faade-f990-40d8-ba0f-97f959936771": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Just wanted to say that it\u00e2\u0080\u0099s making everyone rlly uncomfy cuz its kind of fetishizing transphobia and trans men."
+        ],
+        "latest_report": 1729322496,
+        "earliest_report": 1729322496
+    },
+    "https://janitorai.com/characters/351f2f48-9364-4fce-9cb4-2fba9e37b3c1": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Doesn't work."
+        ],
+        "latest_report": 1729296904,
+        "earliest_report": 1729296904
+    },
+    "https://janitorai.com/characters/ffc8fcee-321f-4f9a-851f-57aa846822aa": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "nazi hitler bad"
+        ],
+        "latest_report": 1729283297,
+        "earliest_report": 1729283297
+    },
+    "https://janitorai.com/characters/0128fd79-4685-400f-a0d5-9cdba786888c": {
+        "report_tags": {
+            "illegal": 4
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729284106,
+        "earliest_report": 1729284096
+    },
+    "https://janitorai.com/characters/0bddc9e2-d21b-4db3-b003-d79a3e75f26f": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729286833,
+        "earliest_report": 1729286833
+    },
+    "https://janitorai.com/characters/efebc3a5-2f70-4c7e-b25f-4cb09b33667f": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729321422,
+        "earliest_report": 1729321422
+    },
+    "https://janitorai.com/characters/d8c966f2-9f3b-42a9-a6ee-41bcc0fa4fd5": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729287284,
+        "earliest_report": 1729287284
+    },
+    "https://janitorai.com/characters/eab075af-1bd2-4623-b2a9-a451b4f5727f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "You're a literal child in this one, and the bot wants to rape you."
+        ],
+        "latest_report": 1729290432,
+        "earliest_report": 1729290432
+    },
+    "https://janitorai.com/characters/50f22c03-7851-43cf-bba5-6ae9e72c30ce": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this bot is a child character"
+        ],
+        "latest_report": 1729290587,
+        "earliest_report": 1729290587
+    },
+    "https://janitorai.com/characters/3ea0c0a3-17d6-441c-8d92-94f1823d0c8c": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Pedophilia and zoophilia,, weird :("
+        ],
+        "latest_report": 1729283038,
+        "earliest_report": 1729283038
+    },
+    "https://janitorai.com/characters/f34c6562-e9d9-4add-aa93-a5416fe23b62": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Clanne is 16, and limitless is for 18 and up"
+        ],
+        "latest_report": 1729290904,
+        "earliest_report": 1729290904
+    },
+    "https://janitorai.com/characters/bdd09a08-0656-4c1c-9aba-f7e11a16a83a": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "canon art of minors. Also, this plot would mean they are all 15"
+        ],
+        "latest_report": 1729279043,
+        "earliest_report": 1729279043
+    },
+    "https://janitorai.com/characters/d5df919c-f58c-4e85-ad47-97f71c776d8d": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this is a child"
+        ],
+        "latest_report": 1729274661,
+        "earliest_report": 1729274661
+    },
+    "https://janitorai.com/characters/e44fb3bf-60dc-4869-a4f1-5b2491d719ae": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729287292,
+        "earliest_report": 1729287292
+    },
+    "https://janitorai.com/characters/f5817bb4-282a-47bd-b37e-1349b6275d37": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729287566,
+        "earliest_report": 1729287566
+    },
+    "https://janitorai.com/characters/6b47422b-8c13-4ff9-b90f-9cba6aead6f7": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "looks like a child"
+        ],
+        "latest_report": 1729278523,
+        "earliest_report": 1729278523
+    },
+    "https://janitorai.com/characters/5cf5f17f-529f-4ae9-8f97-ad33f2d91ce3": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Sexuallizing a real person"
+        ],
+        "latest_report": 1729280637,
+        "earliest_report": 1729280637
+    },
+    "https://janitorai.com/characters/fdaebc3e-314d-4ea3-bc9f-de5ef7cce19a": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729283561,
+        "earliest_report": 1729283561
+    },
+    "https://janitorai.com/characters/fc771e9e-d47e-46e2-b61c-26595fb26b82": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729319058,
+        "earliest_report": 1729319058
+    },
+    "https://janitorai.com/characters/44ddc149-5533-4aef-ad20-207b88f0ef81": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "For the love of God it's literally detailed instructions on how to make illegal drugs!"
+        ],
+        "latest_report": 1729274104,
+        "earliest_report": 1729274104
+    },
+    "https://janitorai.com/characters/5b592cdd-d3f5-4552-9113-35a0419ccc1f": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316195,
+        "earliest_report": 1729316194
+    },
+    "https://janitorai.com/characters/61d5d1d1-92e5-435a-8df2-23683730c035": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729270824,
+        "earliest_report": 1729270824
+    },
+    "https://janitorai.com/characters/5e755738-baad-4d84-93e8-a11922454f53": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729255070,
+        "earliest_report": 1729255070
+    },
+    "https://janitorai.com/characters/8f1b01fa-ee1b-4c19-8038-d9da0c6512c9": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Enid Sinclair is 16 years old, a minor."
+        ],
+        "latest_report": 1729323861,
+        "earliest_report": 1729323861
+    },
+    "https://janitorai.com/characters/f7eda75b-f5e8-42f4-b39d-31fda8aa7c5f": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Missing trans tag."
+        ],
+        "latest_report": 1729249037,
+        "earliest_report": 1729249037
+    },
+    "https://janitorai.com/characters/43cc48c2-f65b-43b4-8913-3df6d3d3bce0": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Male in female tag"
+        ],
+        "latest_report": 1729247734,
+        "earliest_report": 1729247734
+    },
+    "https://janitorai.com/characters/ea19a744-1440-43fb-9ef0-727c0a5e6998": {
+        "report_tags": {
+            "other": 2,
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "TOS"
+        ],
+        "latest_report": 1729281249,
+        "earliest_report": 1729271455
+    },
+    "https://janitorai.com/characters/fee1a6c4-5318-4dc9-8681-37f750a5e63a": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "This is 100% incest"
+        ],
+        "latest_report": 1729279980,
+        "earliest_report": 1729279980
+    },
+    "https://janitorai.com/characters/4de3bc3f-82ef-49dd-8e21-4488dba95da6": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729287881,
+        "earliest_report": 1729287881
+    },
+    "https://janitorai.com/characters/7c23e261-06ba-4d57-abea-ef5b29d94d94": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729279602,
+        "earliest_report": 1729279602
+    },
+    "https://janitorai.com/characters/ec059928-6eb6-4987-a316-d713a793246e": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729266067,
+        "earliest_report": 1729266067
+    },
+    "https://janitorai.com/characters/e3b6b5ff-4275-49fa-8773-bc0d5a41feec": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Male POV"
+        ],
+        "latest_report": 1729310968,
+        "earliest_report": 1729310968
+    },
+    "https://janitorai.com/characters/9f3b6d17-584a-407c-9f98-7f714cbdd158": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729291380,
+        "earliest_report": 1729291380
+    },
+    "https://janitorai.com/characters/43be099e-e045-451c-9379-69ef6c593c4c": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "\"Totally 18, guys! Trust me, I'm a dolphin!\""
+        ],
+        "latest_report": 1729292093,
+        "earliest_report": 1729292093
+    },
+    "https://janitorai.com/characters/c0fd8d39-1dde-4c59-890c-adde4ef88975": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "minor-looking bot"
+        ],
+        "latest_report": 1729260424,
+        "earliest_report": 1729260424
+    },
+    "https://janitorai.com/characters/967c1a58-780b-44fa-a392-c5f976fa9b2e": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729268615,
+        "earliest_report": 1729268615
+    },
+    "https://janitorai.com/characters/d671fde1-bb29-40da-a959-eeee67e39071": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "highschool"
+        ],
+        "latest_report": 1729310445,
+        "earliest_report": 1729310445
+    },
+    "https://janitorai.com/characters/b3adc93c-ca9b-4cc3-adf3-b5d5b683d6bd": {
+        "report_tags": {
+            "other": 1,
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "There is no need for religiously motivated bots on a site where people specifically use the bots for sexual gratification. Just, no."
+        ],
+        "latest_report": 1729290955,
+        "earliest_report": 1729282332
+    },
+    "https://janitorai.com/characters/8d84b368-f511-4467-b137-f3f2605f81c2": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "All of this user's \"bots\" aren't bots at all. They're blog posts and/or suicide claims."
+        ],
+        "latest_report": 1729291492,
+        "earliest_report": 1729291492
+    },
+    "https://janitorai.com/characters/c5ed7d7d-3b9b-423b-af29-bcab6c3d3b0b": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729304862,
+        "earliest_report": 1729304862
+    },
+    "https://janitorai.com/characters/02c98ad6-0bb8-415f-b4e1-e2543ff758c6": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Underage bot"
+        ],
+        "latest_report": 1729308948,
+        "earliest_report": 1729308948
+    },
+    "https://janitorai.com/characters/27520261-e017-4953-98c0-8f0b5e668dee": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "This bot full of sacrasm, its not good for mentality, hope you'll delete this soon"
+        ],
+        "latest_report": 1729309585,
+        "earliest_report": 1729309585
+    },
+    "https://janitorai.com/characters/c535d164-a7e6-43bb-87a5-bfa751c3a8cc": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729311037,
+        "earliest_report": 1729311037
+    },
+    "https://janitorai.com/characters/dd36a3ab-b2ac-40d0-9679-ea83b88794eb": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "it\u00e2\u0080\u0099s lowkey not my bot but this is ioverths not reuploaded without credit"
+        ],
+        "latest_report": 1729311023,
+        "earliest_report": 1729311023
+    },
+    "https://janitorai.com/characters/010a7ed4-284d-48e2-9265-a8c8cce35eb0": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729294751,
+        "earliest_report": 1729294751
+    },
+    "https://janitorai.com/characters/ef296f4b-3b60-4e23-9cf7-4f177c764e52": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729277753,
+        "earliest_report": 1729277753
+    },
+    "https://janitorai.com/characters/6a5adc5a-22fa-47e9-ba11-41ad3c49754f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729266091,
+        "earliest_report": 1729266091
+    },
+    "https://janitorai.com/characters/6ae37da0-f41b-4335-a8c8-51cde1966d46": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729248956,
+        "earliest_report": 1729248956
+    },
+    "https://janitorai.com/characters/f88be6ec-76e5-42c7-a51d-9ff4403baa35": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this character is a minor"
+        ],
+        "latest_report": 1729236212,
+        "earliest_report": 1729236212
+    },
+    "https://janitorai.com/characters/9aace81a-114b-49d2-9638-8d163c8c5caa": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729270627,
+        "earliest_report": 1729270627
+    },
+    "https://janitorai.com/characters/ac4e16c7-f410-412e-9a0c-6e3b81d474e0": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729265270,
+        "earliest_report": 1729265270
+    },
+    "https://janitorai.com/characters/1303d6d5-f049-4298-ae5e-b0dfb1b8f573": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729297055,
+        "earliest_report": 1729297055
+    },
+    "https://janitorai.com/characters/5ecdb225-adb3-4436-92f9-9cff60bdfa89": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729286114,
+        "earliest_report": 1729286114
+    },
+    "https://janitorai.com/characters/d4869d8a-7eae-47d3-9f2e-a52bc11d64a6": {
+        "report_tags": {
+            "illegal": 13,
+            "other": 3,
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729320344,
+        "earliest_report": 1729282436
+    },
+    "https://janitorai.com/characters/ba296341-661b-418b-b066-0e06d373634e": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The bot is 15. A minor"
+        ],
+        "latest_report": 1729295800,
+        "earliest_report": 1729295800
+    },
+    "https://janitorai.com/characters/403b2d8a-2502-471e-b669-71d44f34c035": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Underage real(?) person, potentially real personal information given"
+        ],
+        "latest_report": 1729283888,
+        "earliest_report": 1729278362
+    },
+    "https://janitorai.com/characters/337cf6fe-87a9-4b1e-8708-68781ae84353": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "canon art and he's a minor"
+        ],
+        "latest_report": 1729277036,
+        "earliest_report": 1729277036
+    },
+    "https://janitorai.com/characters/456e87dd-8fca-43ea-bccd-8a9466ab38cb": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Canon art, he's only 17"
+        ],
+        "latest_report": 1729283077,
+        "earliest_report": 1729283077
+    },
+    "https://janitorai.com/characters/7f862d7f-e019-43ca-b07a-97ff9a34e66e": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729248229,
+        "earliest_report": 1729248229
+    },
+    "https://janitorai.com/characters/60537774-0690-4e1b-8271-0de403dc48f2": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Male in female tag"
+        ],
+        "latest_report": 1729248810,
+        "earliest_report": 1729248810
+    },
+    "https://janitorai.com/characters/8ee9b0f2-2d77-4e5d-a537-64b7d47738a4": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "This creature on the photos didn't have 18 years old"
+        ],
+        "latest_report": 1729245058,
+        "earliest_report": 1729245058
+    },
+    "https://janitorai.com/characters/02103a0f-71db-44b6-84bb-aae9dffa43a5": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729280237,
+        "earliest_report": 1729280237
+    },
+    "https://janitorai.com/characters/91b80fee-2f17-4fea-b079-c1e1ff696984": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Este bot n\u00c3\u00a3o est\u00c3\u00a1 funcionando, eu entro para tentar conversar com ela mais diz bot privado ou exclu\u00c3\u00addo mais o bot aparecer normalmente quando eu pesquiso e na aba do criador"
+        ],
+        "latest_report": 1729294399,
+        "earliest_report": 1729294399
+    },
+    "https://janitorai.com/characters/5ad3e866-ad12-48f1-a213-f3354a9f0fb2": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Canon art shes only 16"
+        ],
+        "latest_report": 1729274714,
+        "earliest_report": 1729274714
+    },
+    "https://janitorai.com/characters/9d2d7382-ee69-4839-a753-4a3fa8ff119c": {
+        "report_tags": {
+            "stolen": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729252446,
+        "earliest_report": 1729252443
+    },
+    "https://janitorai.com/characters/3d0fb4f6-9d63-4567-9542-42265db1f4b9": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Dazzle is 6 years old"
+        ],
+        "latest_report": 1729275093,
+        "earliest_report": 1729275093
+    },
+    "https://janitorai.com/characters/db261771-e64c-4fe6-a933-66ef1dd1709d": {
+        "report_tags": {
+            "stolen": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729255513,
+        "earliest_report": 1729255513
+    },
+    "https://janitorai.com/characters/fe6f3232-b004-478c-aa05-ad8d9a69705b": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "O bot n\u00c3\u00a3o est\u00c3\u00a1 abrindo"
+        ],
+        "latest_report": 1729296655,
+        "earliest_report": 1729296655
+    },
+    "https://janitorai.com/characters/a2741471-5da2-478a-9f7d-bab3bbc0ae0a": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "bot has shotacon"
+        ],
+        "latest_report": 1729277648,
+        "earliest_report": 1729277648
+    },
+    "https://janitorai.com/characters/da4410a1-232c-4d58-b126-cc940d424db7": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729277801,
+        "earliest_report": 1729277801
+    },
+    "https://janitorai.com/characters/7ced4415-a0f0-4449-9690-d2217cc4725b": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Stolen from @Wereswolf"
+        ],
+        "latest_report": 1729272432,
+        "earliest_report": 1729272432
+    },
+    "https://janitorai.com/characters/fa652f3f-1542-4e66-8472-742f66fa6234": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "It\u00e2\u0080\u0099s romanticizing rape"
+        ],
+        "latest_report": 1729258256,
+        "earliest_report": 1729258256
+    },
+    "https://janitorai.com/characters/a6b040c5-9726-4e87-bcf5-e625518e5851": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this looks like a child"
+        ],
+        "latest_report": 1729275012,
+        "earliest_report": 1729275012
+    },
+    "https://janitorai.com/characters/30eefbaf-01ee-4f48-a4ad-bf591ad3fc0c": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Art from show where Haru is a minor"
+        ],
+        "latest_report": 1729278225,
+        "earliest_report": 1729278225
+    },
+    "https://janitorai.com/characters/367f1143-1321-4615-9244-bb1c21ac1f51": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729245750,
+        "earliest_report": 1729245750
+    },
+    "https://janitorai.com/characters/e0ff70da-c9c2-4fcd-9ed3-24d7a1738612": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729257434,
+        "earliest_report": 1729257434
+    },
+    "https://janitorai.com/characters/e0f68b45-53ac-4255-a4d8-45d71ee71d96": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729246186,
+        "earliest_report": 1729246186
+    },
+    "https://janitorai.com/characters/32ea28f8-3fa2-494d-9762-c62bfce0333c": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729256752,
+        "earliest_report": 1729256752
+    },
+    "https://janitorai.com/characters/2d0a6014-effc-4db4-be8b-10e0800d4a62": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729274840,
+        "earliest_report": 1729268395
+    },
+    "https://janitorai.com/characters/73522fd2-41c0-4baf-8b69-bc4d09c50e65": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "the characters on this bot are 13 years old. In the description it says they're on 8th grade, and the whole account is too weird, even with the dead dove tag"
+        ],
+        "latest_report": 1729249793,
+        "earliest_report": 1729249793
+    },
+    "https://janitorai.com/characters/16574a82-44da-43df-b6ce-c357fdf409b4": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "The bots chat didn't show"
+        ],
+        "latest_report": 1729296850,
+        "earliest_report": 1729296850
+    },
+    "https://janitorai.com/characters/dfbb89ed-3dbf-4e69-9ea5-ffa8faa443dd": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729277560,
+        "earliest_report": 1729277560
+    },
+    "https://janitorai.com/characters/d082510e-8c91-4a4e-b955-4a064673abec": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "canon art of a minor"
+        ],
+        "latest_report": 1729274995,
+        "earliest_report": 1729274995
+    },
+    "https://janitorai.com/characters/5f610e19-1ab7-4c99-8ef9-0959fbe951f9": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "This bot uses the pokemon tag, but it is not a pokemon bot."
+        ],
+        "latest_report": 1729253250,
+        "earliest_report": 1729253250
+    },
+    "https://janitorai.com/characters/c39870d3-47a2-4a92-9b0d-1653de4d4e8e": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this is a child"
+        ],
+        "latest_report": 1729274684,
+        "earliest_report": 1729274684
+    },
+    "https://janitorai.com/characters/e20d3590-d98b-4024-b89c-ce7e12e28410": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Minor"
+        ],
+        "latest_report": 1729275211,
+        "earliest_report": 1729275211
+    },
+    "https://janitorai.com/characters/a86b1fdf-7f0b-4828-a3eb-880c684ffbe6": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "underage"
+        ],
+        "latest_report": 1729253252,
+        "earliest_report": 1729253252
+    },
+    "https://janitorai.com/characters/8865d7d5-5077-4915-8e0c-bb5927d798f3": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729249023,
+        "earliest_report": 1729249023
+    },
+    "https://janitorai.com/characters/528c6c4a-efd1-4ff0-a4ec-2f6c379686d5": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729257419,
+        "earliest_report": 1729257419
+    },
+    "https://janitorai.com/characters/06d38281-b9f0-4894-b3a2-3c3a8042d503": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "anypov on a fempov bot"
+        ],
+        "latest_report": 1729247098,
+        "earliest_report": 1729247098
+    },
+    "https://janitorai.com/characters/5a578a7d-7203-4306-97b5-a9a302dacf3f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729279183,
+        "earliest_report": 1729279183
+    },
+    "https://janitorai.com/characters/261b1a34-7d0e-403d-8cf7-10354b1d7d63": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "It\u00e2\u0080\u0099s too graphic"
+        ],
+        "latest_report": 1729275697,
+        "earliest_report": 1729275697
+    },
+    "https://janitorai.com/characters/b071a7ca-4182-48ff-89d0-bac21dad4e1a": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "no dead dove tag on a rape and assault bot"
+        ],
+        "latest_report": 1729286515,
+        "earliest_report": 1729286515
+    },
+    "https://janitorai.com/characters/a6b28b42-a3fb-415d-aa3d-7aeab26dd7c5": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Fetish bot of real person"
+        ],
+        "latest_report": 1729279342,
+        "earliest_report": 1729279342
+    },
+    "https://janitorai.com/characters/6a855e82-5b34-4610-8c8c-e31e7475e273": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729274263,
+        "earliest_report": 1729274263
+    },
+    "https://janitorai.com/characters/4cddb9a3-d446-4ce0-8ed6-67c02076e842": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "A nuvem de mensagem dos bots est\u00c3\u00a1 com problema pra mim ela ficou menor e os car\u00c3\u00a1cteres somen"
+        ],
+        "latest_report": 1729300896,
+        "earliest_report": 1729300896
+    },
+    "https://janitorai.com/characters/1e776a1b-2908-4099-a10a-b5b262e5307c": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729323095,
+        "earliest_report": 1729272765
+    },
+    "https://janitorai.com/characters/a15ac1cd-a417-42a0-84d2-2f00ceb6b03f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "I read the intro message of the bot, aside from all the filthy stuff mentioned in the summary. One quote from the intro message was like \"breed as soon as breeding age is reached.\" This is a creepy bot.<br />"
+        ],
+        "latest_report": 1729289914,
+        "earliest_report": 1729289914
+    },
+    "https://janitorai.com/characters/f2ea9d7b-8b66-48da-aa93-563068a894ac": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "this bot is a child character"
+        ],
+        "latest_report": 1729290109,
+        "earliest_report": 1729290109
+    },
+    "https://janitorai.com/characters/6f2c0ab9-0286-457d-82d0-090f94901da0": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729316190,
+        "earliest_report": 1729316190
+    },
+    "https://janitorai.com/characters/7387cb12-8d6e-45bd-8c55-efc1675cf747": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729300454,
+        "earliest_report": 1729300454
+    },
+    "https://janitorai.com/characters/ac974e39-b7e2-4f90-bc89-b500d13878f9": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "every time i need to chat with a ai it immediately said chat bot failed and all so to evey single bot"
+        ],
+        "latest_report": 1729297175,
+        "earliest_report": 1729297175
+    },
+    "https://janitorai.com/characters/110808d0-98f1-411b-92f0-873bd716f29d": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Has the limitless tag yet in the bot intro says the character is (13)"
+        ],
+        "latest_report": 1729299397,
+        "earliest_report": 1729299397
+    },
+    "https://janitorai.com/characters/6d690cf3-0caa-465a-af12-9b571b882e25": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Character is like 12 in the anime so a Minor."
+        ],
+        "latest_report": 1729298962,
+        "earliest_report": 1729298962
+    },
+    "https://janitorai.com/characters/2a43b31a-fc6d-433d-8cf3-0bd7a67e147e": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Underage (17)"
+        ],
+        "latest_report": 1729263591,
+        "earliest_report": 1729263591
+    },
+    "https://janitorai.com/characters/a8876cd6-3f37-4fd8-94ed-38912ef9fb0f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729264375,
+        "earliest_report": 1729264375
+    },
+    "https://janitorai.com/characters/b4bcb7c4-ae14-499b-a598-8db4bb39da57": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729266051,
+        "earliest_report": 1729266051
+    },
+    "https://janitorai.com/characters/f8345712-d1b7-41e5-8bc8-cd1395ab2374": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Listed as anypov, when it's fempov."
+        ],
+        "latest_report": 1729263753,
+        "earliest_report": 1729263753
+    },
+    "https://janitorai.com/characters/681d595a-94b6-4868-9f9f-8fc64a0f80af": {
+        "report_tags": {
+            "wrong_tag": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "No non English tag"
+        ],
+        "latest_report": 1729264918,
+        "earliest_report": 1729264918
+    },
+    "https://janitorai.com/characters/b20f84ad-f48f-475c-86ca-3f62c419f542": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729263326,
+        "earliest_report": 1729263326
+    },
+    "https://janitorai.com/characters/fb81a739-b8cc-47c8-b8d7-2ad848079c06": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729264862,
+        "earliest_report": 1729264862
+    },
+    "https://janitorai.com/characters/1a298b18-ec8c-4482-82df-c90d7bc38bdf": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729265264,
+        "earliest_report": 1729265264
+    },
+    "https://janitorai.com/characters/f51a084d-c5fe-420c-bff9-a616469533d9": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "This is a bot that, from what I can see, is definitely under 18 years old. At first I thought this Panda was an adult, but everything is explained on this bot's website"
+        ],
+        "latest_report": 1729238453,
+        "earliest_report": 1729238453
+    },
+    "https://janitorai.com/characters/5eeb34de-a2d9-4030-918a-49dce4901a6f": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729263426,
+        "earliest_report": 1729263426
+    },
+    "https://janitorai.com/characters/d212116b-3557-47ff-8486-210001e6e1f4": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729242668,
+        "earliest_report": 1729242668
+    },
+    "https://janitorai.com/characters/9d5d05f4-9bbf-468b-8290-3dea5141f370": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729240222,
+        "earliest_report": 1729240222
+    },
+    "https://janitorai.com/characters/812d2da3-92a6-40c1-9f8b-2358f45e6de8": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729240236,
+        "earliest_report": 1729240236
+    },
+    "https://janitorai.com/characters/c223f370-1287-40d6-ba04-3baa30862518": {
+        "report_tags": {
+            "illegal": 2
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "She's five."
+        ],
+        "latest_report": 1729303317,
+        "earliest_report": 1729300185
+    },
+    "https://janitorai.com/characters/acedcec9-04b4-4190-b6d1-650438ad39b6": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "disrespectful af"
+        ],
+        "latest_report": 1729290463,
+        "earliest_report": 1729290463
+    },
+    "https://janitorai.com/characters/37d0aafc-e7f4-4728-9b65-a5c3a8fa38b8": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "12 year old character used. Underage bot."
+        ],
+        "latest_report": 1729278255,
+        "earliest_report": 1729278255
+    },
+    "https://janitorai.com/characters/d4710508-9308-4bcd-9a00-e5382732a356": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "she's 15"
+        ],
+        "latest_report": 1729277017,
+        "earliest_report": 1729277017
+    },
+    "https://janitorai.com/characters/03d8146f-9fec-4beb-b884-7f2116aee9b5": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Underage"
+        ],
+        "latest_report": 1729276426,
+        "earliest_report": 1729276426
+    },
+    "https://janitorai.com/characters/ac270f63-b14b-4cd3-bb38-cd88bcdd55ec": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729277414,
+        "earliest_report": 1729277414
+    },
+    "https://janitorai.com/characters/aea27234-395a-427f-a084-416b2685c139": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729276706,
+        "earliest_report": 1729276706
+    },
+    "https://janitorai.com/characters/1441fbad-5c45-4212-832f-735305ebde80": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729277390,
+        "earliest_report": 1729277390
+    },
+    "https://janitorai.com/characters/f140e439-6e20-4bc3-b1f4-10c6aa2e3920": {
+        "report_tags": {
+            "other": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "canon art of minor"
+        ],
+        "latest_report": 1729280264,
+        "earliest_report": 1729280264
+    },
+    "https://janitorai.com/characters/209bb16f-3950-42c6-8d4c-f1a22a6ed9bc": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729284182,
+        "earliest_report": 1729284182
+    },
+    "https://janitorai.com/characters/8aef722e-a6c9-45f2-b470-2b7a73b05065": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            ""
+        ],
+        "latest_report": 1729281515,
+        "earliest_report": 1729281515
+    },
+    "https://janitorai.com/characters/ff329a3a-43bc-48a5-ad42-2b52c16689c1": {
+        "report_tags": {
+            "spam": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "It's a fart bot. Come on now."
+        ],
+        "latest_report": 1729287200,
+        "earliest_report": 1729287200
+    },
+    "https://janitorai.com/characters/6275db11-e97c-499b-9120-023713c175f3": {
+        "report_tags": {
+            "illegal": 1
+        },
+        "report_user": "https://janitorai.com/profiles/null",
+        "reason(s)": [
+            "Underage"
+        ],
+        "latest_report": 1729288317,
+        "earliest_report": 1729288317
     }
 }
